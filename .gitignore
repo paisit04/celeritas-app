@@ -1,0 +1,5 @@
+.idea
+coverage.out
+/vendor
+/db-data
+celeritas
